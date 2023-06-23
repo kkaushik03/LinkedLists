@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ListDemo
+comment0.text=\r\n\ \ Demonstrates\ the\ use\ of\ the\ SinglyLinkedList\ class.\r\n\r\n\ @author\ \ \ \ \ G.\ Peck\r\n\ @created\ \ \ \ May\ 12,\ 2002\r\n
+comment1.params=
+comment1.target=ListDemo()
+comment2.params=
+comment2.target=void\ createList()
+comment2.text=\r\n\ \ Creates\ a\ SinglyLinkedList\ of\ 5\ Integer\ nodes\r\n
+comment3.params=
+comment3.target=void\ displayFirst()
+comment3.text=\r\n\ \ Display\ the\ first\ element\ of\ the\ list\r\n
+comment4.params=
+comment4.target=void\ displayLast()
+comment5.params=
+comment5.target=void\ print()
+comment5.text=\r\n\ \ Print\ the\ contents\ of\ myList\r\n
+comment6.params=
+comment6.target=void\ getNodes()
+numComments=7

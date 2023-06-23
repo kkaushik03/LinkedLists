@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ \ Encapsulates\ an\ Inventory\ Item\r\n\r\n\ @author\ \ \ \ \ G.\ Peck\r\n\ @created\ \ \ \ July\ 18,\ 2002\r\n\r\n\ modified\ by\ Jason\ Quesenberry\ and\ Nancy\ Quesenberry\r\n\ February\ 6,\ 2006\r\n
+comment1.params=id\ inv
+comment1.target=Item(int,\ int)
+comment1.text=\r\n\ \ Constructor\ for\ the\ Item\ object\r\n\r\n\ @param\ \ id\ \ \ id\ value\r\n\ @param\ \ inv\ \ inventory\ value\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment2.text=\r\n\ \ Gets\ the\ id\ attribute\ of\ the\ Item\ object\r\n\r\n\ @return\ \ \ \ The\ id\ value\r\n
+comment3.params=
+comment3.target=int\ getInv()
+comment3.text=\r\n\ \ Gets\ the\ inv\ attribute\ of\ the\ Item\ object\r\n\r\n\ @return\ \ \ \ The\ inv\ value\r\n
+comment4.params=other
+comment4.target=int\ compareTo(java.lang.Object)
+comment4.text=\r\n\ \ Compares\ two\ Item\ objects\ by\ their\ id\ (myId)\ fields\r\n\r\n\ @param\ \ other\ \ Item\ object\ to\ compare\ to\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ positive\ int\ if\ myId\ >\ other.myId\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 0\ if\ myId\ \=\=\ other.myId\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ negative\ int\ if\ myId\ <\ other.myId\r\n
+comment5.params=other
+comment5.target=boolean\ equals(Item)
+comment5.text=\r\n\ \ Compares\ the\ Item\ to\ the\ specified\ object\r\n\r\n\ @param\ \ otherObject\ \ Item\ object\ to\ compare\ to\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ \ \ \ true\ if\ equal,\ false\ otherwise\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

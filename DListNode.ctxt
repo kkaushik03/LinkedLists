@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=DListNode
+comment0.text=\r\n\ \ Implementation\ of\ a\ node\ of\ a\ singly\ linked\ list.\r\n\r\n\ \ Adapted\ from\ the\ College\ Board's\ AP\ Computer\ Science\ AB\:\r\n\ \ Implementation\ Classes\ and\ Interfaces.\r\n
+comment1.params=initValue\ initNext\ before
+comment1.target=DListNode(java.lang.Object,\ DListNode,\ DListNode)
+comment1.text=\r\n\ \ Constructs\ a\ new\ element\ with\ object\ initValue,\r\n\ \ followed\ by\ next\ element\r\n\r\n\ @param\ \ initValue\ \ New\ element\ object\r\n\ @param\ \ initNext\ \ \ Reference\ to\ next\ element\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getValue()
+comment2.text=\r\n\ \ Returns\ value\ associated\ with\ this\ element\r\n\r\n\ @return\ \ \ \ The\ value\ associated\ with\ this\ element\r\n
+comment3.params=
+comment3.target=DListNode\ getNext()
+comment3.text=\r\n\ \ Returns\ reference\ to\ next\ value\ in\ list\r\n\r\n\ @return\ \ \ \ The\ next\ value\ in\ the\ list\r\n
+comment4.params=
+comment4.target=DListNode\ getPrevious()
+comment5.params=theNewValue
+comment5.target=void\ setValue(java.lang.Object)
+comment5.text=\r\n\ \ Sets\ the\ value\ attribute\ of\ the\ ListNode\ object\r\n\r\n\ @param\ \ theNewValue\ \ value\ attribute\ of\ the\ ListNode\ object\r\n
+comment6.params=theNewNext
+comment6.target=void\ setNext(DListNode)
+comment6.text=\r\n\ \ Sets\ reference\ to\ new\ next\ value\r\n\r\n\ @param\ \ theNewNext\ \ The\ new\ next\ value\r\n
+comment7.params=theNewPrevious
+comment7.target=void\ setPrevious(DListNode)
+numComments=8
