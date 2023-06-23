@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+## Linked Lists
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This repository provides Java implementations of four types of linked lists: singly linked list, doubly linked list, circularly linked list, and ordered list. Each type of linked list is described with example code and usage instructions. 
+
+Linked lists are fundamental data structures that offer dynamic storage allocation and efficient insertion and deletion operations. Use these implementations as a reference or starting point for your own projects that require linked list functionality.
